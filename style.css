@@ -50,14 +50,18 @@ h2 {
   margin: 15px 39rem 15px 40rem;
 }
 
+#loading {
+  padding: 15px 15px 15px 15px;
+}
+
 #output {
+  padding: 25px 15px 25px 15px;
   text-align: center;
   font-size: 25px;
 }
 
 footer {
-  position: sticky;
-  padding: 17rem 15px 15px 15px;
+  padding: 15rem 15px 15px 15px;
   border-radius: 15px;
   margin: auto;
   width: 95%;
